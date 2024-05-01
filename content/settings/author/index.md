@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Anouk Brandenberg und Lisa von Siebenthal"
-image = "/img/default-author.jpg"
+image = "/media/mont-saint-michel-1.jpg"
 url = "/about/"
 +++
