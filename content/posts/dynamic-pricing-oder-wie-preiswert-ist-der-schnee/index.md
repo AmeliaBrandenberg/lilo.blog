@@ -2,7 +2,8 @@
 title = "Dynamic Pricing - oder wie preiswert ist der Schnee"
 date = "2024-04-28"
 draft = true
-pinned = false
+pinned = true
+tags = ["DynamicPricing", "Tageskartenpreise", "Pistenpreise", "Adelboden-Lenk", "Melchsee-Frutt", "werfrüherbucht", ""]
 image = "bildwerzuerstbucht.png"
 description = "Dynamic Pricing in aller Munde. Über die Pro- und Kontraseiten dieser Preisstrategie im Interview mit zwei Unternehmen. Was sind Sie bereit, an einem verregneten Tag fürs Skifahren zu bezahlen?  "
 +++
