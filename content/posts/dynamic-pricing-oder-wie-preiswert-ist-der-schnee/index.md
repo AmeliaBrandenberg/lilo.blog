@@ -68,7 +68,7 @@ Die Bergbahn Melchsee-Frutt stellt auch fest, dass sie von naheliegenden Gebiete
 
 an der Kasse stehen, was der Preis ist”, so Daniel Dommann. Das schafft neue Probleme. Parkplätze und Transportmöglichkeiten sind begrenzt und stossen irgendwann mal an ihre Grenzen. Und Daniel Dommann ergänzt: “... das Schlimmste wäre, wir müssten Gäste nach Hause schicken”. Die Preisgestaltung wird demnach auch hier jeden Winter neu lanciert. 
 
-![Lisa von Siebenthal, Screenshot das wohl neue Motto der Bergbahn Adelboden-Lenk©](bildwerzuerstbucht.png)
+![Lisa von Siebenthal, Screenshot Motto der Bergbahn Adelboden-Lenk©](bildwerzuerstbucht.png)
 
 ## **«Skifahren ist ein Luxusgut»** 
 
