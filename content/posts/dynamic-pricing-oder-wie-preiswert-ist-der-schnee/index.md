@@ -1,7 +1,7 @@
 +++
 title = "Dynamic Pricing - oder wie preiswert ist der Schnee"
 date = "2024-04-28"
-draft = true
+draft = false
 pinned = true
 tags = ["DynamicPricing", "Tageskartenpreise", "Pistenpreise", "Adelboden-Lenk", "Melchsee-Frutt", "werfrüherbucht", ""]
 image = "bildwerzuerstbucht.png"
